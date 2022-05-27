@@ -7,11 +7,6 @@ httpserver is a Go program that provides you with the Download files from httpse
 Install go and curl before run 
 
 
-### Install
-
-```bash
-python3 setup.py install
-```
 
 ## Usage
 
