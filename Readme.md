@@ -5,6 +5,9 @@ httpserver is a Go program that provides you with the Download files from httpse
 ## Prerequisites
 
 Install go and curl before run 
+
+and
+
 put file (test.txt) on C:\inetpub\wwwroot\new 
 
 
